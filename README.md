@@ -163,7 +163,7 @@ Seções
 - [Elementos de formulário](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/30/08/2021/aula/1f5c6021-a493-4de1-be34-7795408769e9/dbbe8a84-bb34-4964-93be-2772bbc661dc)
 - [Estilizando inputs e botões + propriedade all](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/30/08/2021/aula/1f5c6021-a493-4de1-be34-7795408769e9/d5dd5661-001a-43de-9fe9-ea79df2d19bc)
 - [Pseudo classes focus e hover](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/30/08/2021/aula/1f5c6021-a493-4de1-be34-7795408769e9/fb1c015c-67a3-4132-b89f-906dc359b1a8)
-
+- [Minha página](/pages/home/index.html)
 **LEMBRE-SE**: é melhor feito do quê perfeito!!!
 
 
